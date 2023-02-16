@@ -25,9 +25,11 @@ text-align: center;
 }
 
 body{
-  background-image = url("Photo/tree.webp");
+  background-image: url("Photo/tree.webp");
   text-align: center;
 }
 
 footer{
 text-align: center}
+
+
