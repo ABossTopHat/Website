@@ -76,7 +76,7 @@ header{
 background-image: url("Photo/water.jpg")
 }
 img{
-align: center;
+align: relative;
 width: 300;
 border-radius: 50%
 }
