@@ -32,10 +32,11 @@ body{
 }
 
 footer{
-text-align: center}
+text-align: center;
+width: 800px;
+margin: 600px;}
 
-main,
-footer {
+main, {
   width: 800px;
   margin: 600px;
 }
