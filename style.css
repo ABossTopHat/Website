@@ -1,5 +1,8 @@
 header{
-background-image: url("Photo/water.jpg")
+  text-align: center;
+  text-color: red;
+    
+background-image: url("Photo/water.jpg");
 }
 
 img{
