@@ -8,14 +8,16 @@ width: 100;
 border-radius: 50%
 }
 
-background-image = url(Photo/tree.webp)
+
 
 h3{
-text-align: center
+text-align: center;
 }
 
 body{
-  text-align: center}
+  background-image = url(Photo/tree.webp)
+  text-align: center;
+}
 
 footer{
 text-align: center}
