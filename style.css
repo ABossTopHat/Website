@@ -27,6 +27,7 @@ text-align: center;
 body{
   background-image: url("Photo/tree.webp");
   text-align: center;
+  margin: 50
 }
 
 footer{
