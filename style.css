@@ -11,7 +11,11 @@ border-radius: 50%
 background-image = url(Photo/tree.webp)
 
 h3{
-align: center
+text-align: center
 }
+
 body{
-  txt-align: center}
+  text-align: center}
+
+footer{
+text-align: center}
