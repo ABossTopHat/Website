@@ -32,13 +32,12 @@ body{
 }
 
 footer{
-text-align: center;
-width: 800px;
-margin: 600px;}
+width: 400px;
+margin: 300px;}
 
 main, {
-  width: 800px;
-  margin: 600px;
+  width: 400px;
+  margin: 300px;
 }
 
 
