@@ -73,5 +73,10 @@ footer p {
   color: #668284;
 }
 header{
-background-image: url("photo/water.jpg")
+background-image: url("Photo/water.jpg")
+}
+img{
+align: center;
+width: 300;
+border-radius: 50%
 }
