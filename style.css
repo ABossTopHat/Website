@@ -1,7 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light|Oswald|Permanent+Marker');
+
+html, h1, h2, p {
+  font-family: 'Shadows Into Light', cursive;
+  color: DarkRed;
+}
+
 header{
-  text-align: center;
-  text-color: red;
-    
+  text-align: center;  
 background-image: url("Photo/darkBackground.jpg");
 }
 
