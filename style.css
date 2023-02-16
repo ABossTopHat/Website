@@ -1,1 +1,23 @@
+h1 {
+  color: #000;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+h2 {
+  color: #484545;
+  font-family: Times, serif;
+}
+
+p {
+  color: #757575;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.align-right {
+  text-align: right;
+}
+
+.color-pop {
+  color: red;
+}
 
