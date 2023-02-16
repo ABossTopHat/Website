@@ -76,8 +76,8 @@ header{
 background-image: url("Photo/water.jpg")
 }
 img{
-align: relative;
-width: 300;
+align: center;
+width: 100;
 border-radius: 50%
 }
-background-image = <a ref="Photo/tree.webp"/>
+background-image = url(Photo/tree.webp)
