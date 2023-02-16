@@ -28,7 +28,7 @@ text-align: center;
 body{
   background-image: url("Photo/darkImage.webp");
   text-align: center;
-  margin: 50
+  margin: auto
 }
 
 footer{
@@ -37,7 +37,7 @@ text-align: center}
 main,
 footer {
   width: 800px;
-  margin: auto;
+  margin: 600px;
 }
 
 
