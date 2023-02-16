@@ -75,9 +75,15 @@ footer p {
 header{
 background-image: url("Photo/water.jpg")
 }
+
 img{
 align: center;
 width: 100;
 border-radius: 50%
 }
+
 background-image = url(Photo/tree.webp)
+
+h3{
+align: center
+}
