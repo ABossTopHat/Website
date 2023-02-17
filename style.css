@@ -14,7 +14,7 @@ background-image: url("Photo/darkBackground.jpg");
 img{
 margin-left: auto;
 margin-right: auto;
-width: 50%;
+width: 50opx;
 height: auto;
 border-radius: 50%;
 }
