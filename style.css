@@ -16,7 +16,7 @@ margin-left: auto;
 margin-right: auto;
 width: 50%;
 border-radius: 50%;
-size: 80%
+size: 70%;
 }
 
 
@@ -28,16 +28,19 @@ text-align: center;
 body{
   background-image: url("Photo/darkImage.webp");
   text-align: center;
-  margin: auto
+  margin: auto;
 }
 
 footer{
 width: 400px;
-margin: auto;}
+margin: auto;
+padding: 10px;
+}
 
 main, {
   width: 300px;
   margin: auto;
+  padding: 10px;
 }
 
 
