@@ -33,11 +33,11 @@ body{
 
 footer{
 width: 400px;
-margin: 300px;}
+margin: auto;}
 
 main, {
-  width: 400px;
-  margin: 300px;
+  width: 300px;
+  margin: auto;
 }
 
 
