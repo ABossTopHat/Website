@@ -2,14 +2,14 @@
 html, h1, h2, p {
   font-family:sans-serif;
   color: White;
-  font-size: 60;
+  font-size: 60px;
   text-align: center;
 }
 /* the top part of the web page */
 header{
   text-align: center;  
   background-image: url("Photo/darkBackground.jpg");
-  font-size: 40
+  font-size: 40px;
 }
 /* this stuff is what changes the image size and centers it */
 img{
@@ -24,13 +24,13 @@ border-radius: 50%;
 
 h3{
 text-align: center;
-  font-size: 30
+  font-size: 30px
 }
 /* this applies the background image to the we page */
 body{
   background-image: url("Photo/darkImage.webp");
   text-align: center;
-  font-size: 20
+  font-size: 20px
 }
 /* this applies edits to the footer */
 footer{
