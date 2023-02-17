@@ -3,12 +3,13 @@
 html, h1, h2, p {
   font-family: 'Shadows Into Light', cursive;
   color: White;
-  font-size: 30
+  font-size: 30;
+  text-align: center;
 }
 
 header{
   text-align: center;  
-background-image: url("Photo/darkBackground.jpg");
+  background-image: url("Photo/darkBackground.jpg");
   font-size: 20
 }
 
@@ -28,18 +29,21 @@ text-align: center;
 
 body{
   background-image: url("Photo/darkImage.webp");
+  text-align: center;
 }
 
 footer{
 width: 400px;
 margin: auto;
 padding: 10px;
+text-align: center;
 }
 
 main, {
   width: 400px;
   margin: auto;
   padding: 10px;
+  txt-align: center
 }
 
 a:link  {red}
