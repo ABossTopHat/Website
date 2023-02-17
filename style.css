@@ -1,7 +1,6 @@
-@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light|Oswald|Permanent+Marker');
 /* some general changes to start */
 html, h1, h2, p {
-  font-family: 'Shadows Into Light', cursive;
+  font-family: 'Quattrocento Sans', sans-serif;
   color: White;
   font-size: 60;
   text-align: center;
