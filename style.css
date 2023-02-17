@@ -1,18 +1,18 @@
 @import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light|Oswald|Permanent+Marker');
-
+/* some general changes to start */
 html, h1, h2, p {
   font-family: 'Shadows Into Light', cursive;
   color: White;
   font-size: 30;
   text-align: center;
 }
-
+/* the top part of the web page */
 header{
   text-align: center;  
   background-image: url("Photo/darkBackground.jpg");
   font-size: 20
 }
-
+/* this stuff is what changes the image size and centers it */
 img{
 margin-left: auto;
 margin-right: auto;
@@ -21,32 +21,34 @@ height: auto;
 border-radius: 50%;
 }
 
-
+/* this just makes sure <h3> code is center, probaly not needed tbh but meh i dont wanna delete it */
 
 h3{
 text-align: center;
 }
-
+/* this applies the background image to the we page */
 body{
   background-image: url("Photo/darkImage.webp");
   text-align: center;
 }
-
+/* this applies edits to the footer */
 footer{
 width: 400px;
 margin: auto;
 padding: 10px;
 text-align: center;
 }
-
+/* this is the edits for the main body of the webpage*/
 main, {
   width: 400px;
   margin: auto;
   padding: 10px;
   txt-align: center
 }
-
+/* this is the psudo code for the links */
 a:link  {red}
 a:visited {yellow}
 a:hover {green}
 a:active {orange}
+
+/* i know this whole thing is probabl a mess, but pls dont judge me too bad xD */
